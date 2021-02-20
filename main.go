@@ -12,10 +12,7 @@ import (
 	"unicode"
 )
 
-// CSV
-// ios vcard
-// standard vcard
-
+// Extensions from Google Contacts and iOS
 // make sure none of these end in a digit
 var asIs = []string{"VERSION", "FN", "NICKNAME", "BDAY", "X-GTALK", "X-PHOENETIC-FIRST-NAME", "X-PHOENETIC-LAST-NAME", "TITLE", "NOTE"}
 
