@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/csv"
-	"fmt"
 	"github.com/emersion/go-vcard"
 	"io"
 	"log"
@@ -102,5 +101,4 @@ func main() {
 		}
 	}
 	output.Flush()
-	fmt.Println("")
 }
