@@ -1,6 +1,6 @@
 # vcard2csv
 
-Export vcard files to CSVs
+Export vcard files to CSV
 
 Supports as many ios/google contact non-standard extensions as possible.
 
